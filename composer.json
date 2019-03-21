@@ -1,6 +1,6 @@
 {
     "name": "claudiusnascimento/sitemap",
-    "description": "Generate de sitemap to your app/site",
+    "description": "Generate de sitemap to your website",
     "type": "library",
     "license": "MIT",
     "authors": [
