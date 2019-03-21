@@ -1,0 +1,19 @@
+{
+    "name": "claudiusnascimento/sitemap",
+    "description": "Generate de sitemap to your app/site",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claudius Nascimento",
+            "email": "cau@claudiusnascimento.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ClaudiusNascimento\\Sitemap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
