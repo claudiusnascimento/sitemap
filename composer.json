@@ -3,17 +3,19 @@
     "description": "Generate de sitemap to your website",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "authors": [
         {
             "name": "Claudius Nascimento",
             "email": "cau@claudiusnascimento.com"
         }
     ],
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
-            "ClaudiusNascimento\\Sitemap\\": "src/"
+            "ClaudiusNascimento\\RecaptchaV3\\": "src/"
         }
-    },
-    "minimum-stability": "dev",
-    "require": {}
+    }
 }
